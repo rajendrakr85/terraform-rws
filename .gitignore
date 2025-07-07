@@ -1,0 +1,12 @@
+.terraform/
+remote-infra/.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.2.0/windows_386/LICENSE.txt
+remote-infra/.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/local/2.5.3/windows_386/terraform-provider-local_v2.5.3_x5.exe
+.terraform.lock.hcl
+remote-infra/.terraform/providers/registry.terraform.io/hashicorp/aws/5.91.0/windows_386/terraform-provider-aws_v5.91.0_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.91.0/windows_386/terraform-provider-aws_v5.91.0_x5.exe
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.2.0/windows_386/terraform-provider-aws_v6.2.0_x5.exe
+.terraform/environment
